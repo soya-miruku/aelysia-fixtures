@@ -1,11 +1,11 @@
 {
   "warehouse": "SYNTHETIC-WH-1",
   "synthetic": true,
-  "asOf": "2026-11-11T10:21:00Z",
+  "asOf": "2026-11-05T00:00:00Z",
   "unit": "units",
   "items": [
-    { "sku": "A", "onHand": 100, "reserved": 10 },
-    { "sku": "B", "onHand": 40, "reserved": 35 },
-    { "sku": "C", "onHand": 20, "reserved": 0 }
+    { "sku": "A", "onHand": 100, "reserved": 95 },
+    { "sku": "B", "onHand": 40, "reserved": 0 },
+    { "sku": "C", "onHand": 70, "reserved": 10 }
   ]
 }
